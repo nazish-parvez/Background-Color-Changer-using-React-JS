@@ -14,7 +14,7 @@ A simple ReactJS application that changes the background color of the page. This
 ## 🎥 Demo
 
 <video width="" controls>
-  <source src="./src/assets/Bg Color Changer.mp4" type="video/mp4">
+<source src="./src/assets/Bg Color Changer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
