@@ -13,10 +13,7 @@ A simple ReactJS application that changes the background color of the page. This
 
 ## 🎥 Demo
 
-<video width="" controls>
-<source src="./src/assets/Bg Color Changer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/nazish-parvez/Background-Color-Changer-using-React-JS/assets/166379592/e44973b4-8123-4e45-8ed0-fd3aacd94230
 
 
 ## ✨ Features
