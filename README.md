@@ -62,4 +62,4 @@ npm -v
     npm run dev
     ```
 
-2. This will start the Vite development server, and you should be able to view your project in your browser at http://localhost:5173/ (default)...
+2. This will start the Vite development server, and you should be able to view your project in your browser at http://localhost:5173/ (default).
