@@ -1,4 +1,4 @@
-# 🎨 Background Color Changer using React JSsssss
+# 🎨 Background Color Changer using React JSssss
 
 A simple ReactJS application that changes the background color of the page. This project is built using Vite for fast development.
 
