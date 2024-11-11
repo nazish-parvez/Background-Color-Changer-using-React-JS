@@ -9,7 +9,7 @@ function App() {
         className="w-full h-screen duration-500"
         style={{ backgroundColor: color }}
       >
-        <div className=" flex flex-wrap justify-center items-center h-screen inset-x-0 px-2">
+        <div className="flex flex-wrap justify-center items-center h-screen inset-x-0 px-2">
 
           <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white px-9 py-6 rounded-xl">
 
